@@ -7,5 +7,4 @@ chonkie
 qdrant-client
 sentence-transformers
 firecrawl
-serper-dev
 gitpython   
