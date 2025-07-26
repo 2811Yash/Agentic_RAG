@@ -1,5 +1,5 @@
 streamlit
-crewai
+crewai>=0.102.0
 crewai-tools
 crewai[tools]
 firecrawl-py
