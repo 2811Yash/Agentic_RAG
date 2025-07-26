@@ -1,6 +1,6 @@
 streamlit
 crewai==0.150.0
-crewai-tools==0.58.0
+crewai-tools
 crewai[tools]
 firecrawl-py
 crewai[FirecrawlSearchTool]
