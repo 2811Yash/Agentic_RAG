@@ -1,12 +1,7 @@
 streamlit
-crewai>=0.102.0
+crewai[tools,FirecrawlSearchTool,FirecrawlScrapeWebsiteTool,GithubSearchTool,SerperDevTool]>=0.102.0
 crewai-tools
-crewai[tools]
 firecrawl-py
-crewai[FirecrawlSearchTool]
-crewai[FirecrawlScrapeWebsiteTool]
-crewai[GithubSearchTool]
-crewai[SerperDevTool]
 markitdown
 chonkie
 chonkie
