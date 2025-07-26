@@ -1,0 +1,11 @@
+streamlit
+crewai
+crewai-tools
+markitdown
+chonkie
+chonkie-embeddings-sentence-transformer
+qdrant-client
+sentence-transformers
+firecrawl
+serper-dev
+gitpython   
