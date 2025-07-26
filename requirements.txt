@@ -3,7 +3,7 @@ crewai
 crewai-tools
 markitdown
 chonkie
-chonkie-embeddings-sentence-transformer
+chonkie
 qdrant-client
 sentence-transformers
 firecrawl
