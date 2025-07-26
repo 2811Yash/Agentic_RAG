@@ -1,5 +1,7 @@
 streamlit
 crewai
+crewai-tools
+firecrawl-py 'crewai[tools]'
 crewai[FirecrawlSearchTool]
 crewai[FirecrawlScrapeWebsiteTool]
 crewai[GithubSearchTool]
