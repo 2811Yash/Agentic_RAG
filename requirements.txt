@@ -1,6 +1,9 @@
 streamlit
 crewai
-crewai-tools
+crewai[FirecrawlSearchTool]
+crewai[FirecrawlScrapeWebsiteTool]
+crewai[GithubSearchTool]
+crewai[SerperDevTool]
 markitdown
 chonkie
 chonkie
